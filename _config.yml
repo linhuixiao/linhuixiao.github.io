@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "linhui_profile.png"
   name             : "Linhui Xiao (肖麟慧)"
-  pronouns         : "he"  
+  pronouns         : # "he"  
   bio              : "Ph.D. in Artificial Intelligence"
   location         : "Shenzhen, China"
   employer         : "Chinese Academy of Sciences (中国科学院自动化所)"
