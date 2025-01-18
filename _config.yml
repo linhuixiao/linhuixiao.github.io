@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Linhui (肖麟慧)"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+title                    : "Dr."
+title_separator          : " "
+name                     : "Linhui Xiao (肖麟慧)"
+description              : "personal description"
 url                      : https://linhuixiao.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "linhuixiao/linhuixiao.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : "he"  
   bio              : "Ph.D. in Artificial Intelligence"
   location         : "Shenzhen, China"
-  employer         : "Institue of Automation, Chinese Academy of Sciences"
+  employer         : "Chinese Academy of Sciences (中国科学院自动化所)"
   URI              : "https://linhuixiao.github.io/"
   email            : "xiaolinhui16@mails.ucas.ac.cn" 
 
