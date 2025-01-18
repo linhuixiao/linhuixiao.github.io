@@ -6,7 +6,7 @@
 
 main:
   - title: "中文"
-    url: /publications/
+    url: /chinese/
 
   # - title: "Talks"
   #   url: /talks/    
