@@ -82,7 +82,8 @@ redirect_from:
 * IROS 2019、2020、2021、2022、2023
 
 **国际期刊审稿人**
-TMM, TCSVT, PR, Information Fusion, NeurComputing, RAL 等等
+
+* TMM, TCSVT, PR, Information Fusion, NeurComputing, RAL 等等
 
 
 联系方式
