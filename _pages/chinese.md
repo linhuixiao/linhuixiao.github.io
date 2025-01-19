@@ -27,7 +27,7 @@ redirect_from:
 ======
 * 2021—2025  鹏城国家实验室，研究助理
 * 2019—2021  中科寒武纪科技股份有限公司，图像处理算法研究员
-* 2018—2019  旷视科技股份有限公司，算法实习研究员
+* 2018—2019  旷视科技股份有限公司，实习算法研究员
 
 部分论文
 ======
@@ -48,7 +48,7 @@ redirect_from:
 * “数据处理装置、数据处理方法及相关产品”, 专利号: 202111129610.8等. 2021-05-01，第一发明人. 系列专利共计 7 项，寒武纪第三代芯片商业级深度学习核心卷积加速系列算法. [专利下载](https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=5pWw5o2u5aSE55CG6KOF572u44CB5pWw5o2u5aSE55CG5pa55rOV5Y+K55u45YWz5Lqn5ZOBL1lZ&type=cn)
 * “物体定位方法、装置、设备及介质”，专利号：ZL 2024 1 0382411.5. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IEF7EDA4CAACIHA3BBA5AFA9FEDABIA7CDA9EED5CCA9EIE)
 * “物体检测分割方案”, 专利号：ZL 2024 1 0272880.1. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9BGA6DDA6BDA9DDB6EBA8CGA9CFADGHA7FAA9DACDHFA9FIE)
-* “基于掩码指代建模的视觉定位和指代分割方法”，专利号：2024112202703. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HDD4DBAAHIA9DFD5AEA6CDA5BCA8FBA9GIF9EIF9CAA9CHA)
+* “基于掩码指代建模的视觉定位和指代分割方法”，专利号：ZL 2024112202703. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HDD4DBAAHIA9DFD5AEA6CDA5BCA8FBA9GIF9EIF9CAA9CHA)
 * “一种多模态视觉语言理解与定位方法、装置、终端及介质”, 专利号. ZL 2023227214-053. 2023.02.01. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EIF6CEA9DEA9CFB2ABA6BFA5BDA9BHE9IAB9DAB2ACA9IAD)
 * “单目视觉信息和IMU信息相融合的尺度估计系统及方法”, No. 201910916403.3. 2019-09-27. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9FEC9FHD8EDAFGHA9HFE9HFDHIHA6AFA9EABAGHA6BFA9BFA)
 * “单目视觉和惯性传感器融合的远距离测距系统及方法”, 专利号. ZL 201910916404.8. 2019-09-27. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=2AAA8BHAAIIABDGA9IDD8IAAABHA4ADA9GBE9AHC6FBA9EGF)
@@ -58,12 +58,12 @@ redirect_from:
   
 部分奖励和荣誉
 ======
-* 2024年中国科学院大学“攀登一等奖学金”
-* 2023、2024年深圳市鹏城科教基金会“人才发展奖学金” 2 次，（前 10%，单次奖金2万元）
-* 2019、2024年中国科学院大学“三好学生” 2 次
-* 2018年 IEEE 国际机器人与控制工程会议（IRCE）第一作者最佳口头报告奖、最佳海报奖
-* 2016年南昌大学优秀本科毕业生（仅前 5% 毕业生获此殊荣）
-* 2015年美国大学生数学建模竞赛，国际一等奖（全球 3 万参赛者仅前 8% 获此殊荣），[新闻报道](https://jwc.ncu.edu.cn/xwdt/20485.htm)，[新闻报道](http://m.ncu.edu.cn/ndyw/9951640e58f24ea59a6427e50aa2eaa3.htm)
+* 2024 年中国科学院大学“攀登一等奖学金”
+* 2023、2024 年深圳市鹏城科教基金会“人才发展奖学金” × 2 次，（前 10%，单次奖金 2 万元）
+* 2019、2024 年中国科学院大学“三好学生” × 2 次
+* 2018 年 IEEE 国际机器人与控制工程会议（IRCE）第一作者最佳口头报告奖、最佳海报奖
+* 2016 年南昌大学优秀本科毕业生（仅前 5% 毕业生获此殊荣）
+* 2015 年美国大学生数学建模竞赛，国际一等奖（全球 3 万参赛者仅前 8% 获此殊荣，[新闻报道1](https://jwc.ncu.edu.cn/xwdt/20485.htm)，[新闻报道2](http://m.ncu.edu.cn/ndyw/9951640e58f24ea59a6427e50aa2eaa3.htm)）
 * 2012—2016年期间获得南昌大学各类奖学金和荣誉称号（如，“一等学业奖学金”，“杨义根奖学金”、“国家奖学金”、“三好学生”、“理学之星”等）共计 20 余次
 
 
@@ -73,10 +73,11 @@ redirect_from:
 * NeurIPS 2024
 * ICLR 2024
 * ECCV 2024
+* CVPR 2024
 * ACM MM 2023、2024
 * AAAI 2023、2024、2025
 * IROS 2019、2020、2021、2022、2023
-* 期刊有：TMM, TCSVT, PR, Information Fusion, NeurComputing, RAL 等等
+* 期刊：TMM, TCSVT, PR, Information Fusion, NeurComputing, RAL 等等
 
 联系方式
 ======
