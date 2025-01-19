@@ -20,7 +20,7 @@ Background
 * 2016—2019  Master，[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.edu.cn/)
   * Institute of Aerospace Information, Chinese Academy of Sciences, State Key Laboratory of Transducer Technology, Beijing, China
 * 2012—2016  Bachelor，[Nanchang University](https://www.ncu.edu.cn/)
-  * Nanchang University, Department of Physics，Nanchang, China
+  * Nanchang University, Department of Physics, Nanchang, China
 
 
 Selected Publications
