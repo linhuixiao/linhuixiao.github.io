@@ -1,49 +1,82 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+当前在鹏城国家实验室担任研究助理。博士毕业于中国科学院自动化研究所多模态人工智能系统全国重点实验室，导师为[徐常胜研究员](https://baike.baidu.com/item/%E5%BE%90%E5%B8%B8%E8%83%9C/7074988) （“国家杰青”）和 [杨小汕研究员](https://people.ucas.ac.cn/~yangxiaoshan)（“国家优青”）；博士期间，进入鹏城国家实验室进行联合培养，合作导师为[王耀威研究员](https://people.ucas.ac.cn/~0028522)（“长江学者”）和[蓝湘源副研究员](https://scholar.google.com.hk/citations?user=c3iwWRcAAAAJ&hl=zh-CN)。硕士毕业于中国科学院空天信息研究院传感技术国家重点实验室，导师为[邹旭东研究员](https://people.ucas.ac.cn/~zouxudong)。个人长期专注于人工智能、视觉定位关键技术的研究，以第一作者身份在人工智能国际顶级期刊和会议（NeurIPS, ACM MM, TMM, TNNLS, TPAMI, RAS 等等）中发表一系列具有国际影响力研究成果，以第一发明人或学生第一发明人累计获得国家/国际发明专利 15+ 项（其中已授权专利 12 项，国际专利 2 项），同时担任 10 余项人工智能领域国际顶刊顶会审稿人。当前主要的研究方向为人工智能，多模态学习，多模态视觉定位，三维视觉定位等等。
+
+Linhui Xiao is currently a research assistant at Pengcheng Laboratory. He obtained his Ph.D. degree from the National Key Laboratory of Multimodal Artificial Intelligence Systems at the Institute of Automation, Chinese Academy of Sciences. His doctoral advisors were [Prof. Changsheng Xu] (https://baike.baidu.com/item/%E5%BE%90%E5%B8%B8%E8%83%9C/7074988) and [Prof. Xiaoshan Yang] (https://people.ucas.ac.cn/~yangxiaoshan). During his doctoral period, he entered Pengcheng National Laboratory for joint cultivation under the guidance of [Prof. Yaowei Wang] (https://people.ucas.ac.cn/~0028522) and [Prof. Lan Xiangyuan](https://scholar.google.com.hk/citations?user=c3iwWRc). He obtained his master's degree from the State Key Laboratory of Transducer Technology at the China Academy of Sciences, where his advisor was [Prof. Xudong Zou] (https://people.ucas.ac.cn/~zouxudong). He has long focused on the research of key technologies in artificial intelligence and visual grounding, publishing a series of internationally influential research works in the international top journals and conferences on artificial intelligence (eg. NeurIPS, ACM MM, TMM, TNNLS, TPAMI, RAS, etc.) as the first author. As the first inventor or student first inventor, he has accumulated over 15+ national and international invention patents (including 12 authorized chinese patents and 2 international patents) and served as a reviewer for more than 10 international top journals and conferences in the field of artificial intelligence. His current research interests include artificial intelligence, multimodal learning, multimodal visual grounding, three-dimensional visual grounding, etc.
+
+
+
+Background
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* 2021—2025  Ph.D.，[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.edu.cn/)
+  * [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), National Key Laboratory of Multimodal Artificial Intelligence Systems, Beijing, China
+  * Pengcheng Laboratory, Shenzhen, China
+  * UCAS ranks No. 1 in China in the ESI ranking system and No. 69 globally in the US News ranking system.
+* 2016—2019  Master，[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.edu.cn/)
+  * [Institute of Aerospace Information, Chinese Academy of Sciences](http://www.aircas.cn/), State Key Laboratory of Transducer Technology, Beijing, China
+* 2012—2016  Bachelor，[Nanchang University](https://www.ncu.edu.cn/)
+  * [Nanchang University, Department of Physics](https://spms.ncu.edu.cn/xygk1/xyjj/index.htm)，Nanchang, China
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Selected Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A top conference. [Download Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A top conference. [Download Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [Code](https://github.com/linhuixiao/HiVG)
+* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2024 reviewing. CCF-A top journal. [Download Paper](https://arxiv.org/pdf/2412.20206), [Code](https://github.com/linhuixiao/Awesome-Visual-Grounding)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/CAS top journal. [Download Paper](https://arxiv.org/pdf/2305.08685), [Code](https://github.com/linhuixiao/CLIP-VG)
+* **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR top journal. [Download Paper](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [Code](https://github.com/linhuixiao/Dynamic-SLAM)
+* Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. JCR/CAS top journal. [Download Paper](https://arxiv.org/pdf/2211.16191), [Code](https://github.com/FannierPeng/SgVA-CLIP)
+* Yabo Liu, Jinghua Wang, **Linhui Xiao**, Chengliang Liu, Zhihao Wu, Yong Xu "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." TNNLS 2023. JCR/CAS top journal. [Download Paper](https://ieeexplore.ieee.org/abstract/document/10329584)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+For more publications, please refer to [my Google Scholar homepage](https://scholar.google.com.hk/citations?user=4rTE4ogAAAAJ&hl=zh-CN&oi=ao)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+Selected Patents
+======
+* “Data Processing Device, Data Processing Method, And Related Product.” International patent. No. WO 2023/045445 A1. First inventor. [Download patent](https://patents.google.com/patent/WO2023045445A1/en?oq=WO2023045445A1)
+* “Computing Apparatus, Data Processing Method, And Related Product.” International patent. No. WO 2023/045446A1. First inventor. [Download patent](https://patents.google.com/patent/WO2023045446A1/en?oq=WO2023045446A1)
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+  
+Selected Awards & Honors
+======
+* 2024 First Prize of the Pandeng Scholarship, UCAS
+* 2023 and 2024 Shenzhen Pengcheng Science and Education Foundation "Talent Development Scholarship" awarded twice
+* 2019 and 2024 "Merit Student" of the University of Chinese Academy of Sciences
+* 2018 IEEE International Conference on Robotics and Control Engineering (IRCE): Best Oral Presentation Award and Best Poster Award
+* 2016 Outstanding Undergraduate Graduates of Nanchang University (only the top 5% of graduates won this honor)
+* 2015 Mathematical Contest in Modeling for American College Students, International First Prize. [News 1](https://jwc.ncu.edu.cn/xwdt/20485.htm)，[News 2](http://m.ncu.edu.cn/ndyw/9951640e58f24ea59a6427e50aa2eaa3.htm)）
+* From 2012 to 2016, I received various scholarships and honorary titles from Nanchang University (such as the "First-class Academic Scholarship", "Yang Yigan Scholarship", "National Scholarship", "Merit Student", "Star of Science", etc.) on more than 20 occasions.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Domain Service
+======
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Conference Reviewer
+=====
+
+* ICML 2025
+* NeurIPS 2024
+* ICLR 2024
+* ECCV 2024
+* CVPR 2024
+* ACM MM 2023、2024
+* AAAI 2023、2024、2025
+* IROS 2019、2020、2021、2022、2023
+
+Journal Reviewer
+=====
+ 
+* TMM, TCSVT, PR, Information Fusion, NeurComputing, RAL, etc.
+
+Contact
+======
+* Email: [xiaolinhui16@mails.ucas.ac.cn](xiaolinhui16@mails.ucas.ac.cn)
+
