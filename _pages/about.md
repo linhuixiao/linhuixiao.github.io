@@ -53,7 +53,7 @@ Selected Awards & Honors
 * From 2012 to 2016, I received various scholarships and honorary titles from Nanchang University (such as the "First-class Academic Scholarship", "Yang Yigen Scholarship", "National Scholarship", "Merit Student", "Star of Science", etc.) on more than 20 occasions.
 
 
-Domain Service
+Academic Services
 ======
 
 **Conference Reviewer**
