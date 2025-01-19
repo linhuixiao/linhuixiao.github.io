@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "个人介绍"
+title: "关于我"
 permalink: /chinese/
 author_profile: true
 redirect_from:
@@ -9,56 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+我当前是鹏城国家实验室研究助理，博士毕业于中国科学院自动化研究所多模态人工智能系统全国重点实验室，导师为徐常胜研究员（“国家杰青”）和杨小汕研究员（“国家优青”）；博士期间，进入鹏城国家实验室进行联合培养，合作导师为王耀威研究员（“长江学者”）和蓝湘源副研究员。硕士毕业于中国科学院空天信息研究院传感技术国家重点实验室，导师为邹旭东研究员。个人长期专注于人工智能、视觉定位关键技术的研究，以第一作者身份在人工智能国际顶级期刊和会议（NeurIPS, ACM MM, TMM, TNNLS, TPAMI, RAS等等）中发表一系列重要研究成果，以第一发明人或学生第一发明人累积获得国家/国际发明专利15+项（其中国际专利2项，已授权专利12项），同时担任10余项人工智能领域顶刊顶会审稿人。当前主要的研究方向为人工智能，多模态学习，多模态视觉定位，三维视觉定位。
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+教育背景
+======
+* 2021——2025 博士，中国科学院大学（ESI排名全国第一，US News排名全球第69）
+  * 中国科学院自动化研究所，多模态人工智能系统全国重点实验室
+  * 鹏城国家实验室联合培养，深圳 
+* 2016——2019 硕士，中国科学院大学，北京
+  * 中国科学院空天信息研究院，传感技术国家重点实验室
+* 2012——2016 本科，南昌大学，南昌
+  * 南昌大学物理系 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+工作经历
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2021——2025 鹏城国家实验室，研究助理
+* 2019——2021 中科寒武纪科技股份有限公司，图像处理算法研究员
+* 2018——2019 旷视科技股份有限公司，算法实习研究员
+
   
-Talks
+部分奖励和荣誉
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* 2024年中国科学院大学“攀登一等奖学金”
+* 2023、2024年深圳市鹏城科教基金会“人才发展奖学金” 2 次，（前10%，单次奖金2万元）
+* 2019、2024年中国科学院大学“三好学生” 2 次
+* 2016年南昌大学优秀本科毕业生（仅前 5% 毕业生获此殊荣）
+* 2015年美国大学生数学建模竞赛，国际一等奖（全球共计3万参赛者，仅前 8%获此殊荣）
+* 2012—2016年获得南昌大学各类奖学金和荣誉称号（如，“三好学生”、“一等学业奖学金”，“杨义根奖学金”、“国家奖学金”等）共计20余次
+
+
+期刊和会议审稿人
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* ICML 2025
+* NeurIPS 2024
+* ICLR 2024
+* ECCV 2024
+* ACM MM 2023、2024
+* AAAI 2023、2024、2025
+* IROS 2019、2020、2021、2022、2023
+* 期刊有：TMM, PR, Information Fusion, NeurComputing, RAL
+
+联系方式
 ======
-* Currently signed in to 43 different slack teams
+* 邮件：xiaolinhui16@mails.ucas.ac.cn
+
