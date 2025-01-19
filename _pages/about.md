@@ -14,13 +14,13 @@ Linhui Xiao is currently a research assistant at Pengcheng Laboratory. He obtain
 Background
 ======
 * 2021—2025  Ph.D.，[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.edu.cn/)
-  * [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), National Key Laboratory of Multimodal Artificial Intelligence Systems, Beijing, China
+  * Institute of Automation, Chinese Academy of Sciences, National Key Laboratory of Multimodal Artificial Intelligence Systems, Beijing, China
   * Pengcheng Laboratory, Shenzhen, China
   * UCAS ranks No. 1 in China in the ESI ranking system and No. 69 globally in the US News ranking system.
 * 2016—2019  Master，[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.edu.cn/)
-  * [Institute of Aerospace Information, Chinese Academy of Sciences](http://www.aircas.cn/), State Key Laboratory of Transducer Technology, Beijing, China
+  * Institute of Aerospace Information, Chinese Academy of Sciences, State Key Laboratory of Transducer Technology, Beijing, China
 * 2012—2016  Bachelor，[Nanchang University](https://www.ncu.edu.cn/)
-  * [Nanchang University, Department of Physics](https://spms.ncu.edu.cn/xygk1/xyjj/index.htm)，Nanchang, China
+  * Nanchang University, Department of Physics，Nanchang, China
 
 
 Selected Publications
