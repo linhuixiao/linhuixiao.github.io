@@ -68,8 +68,10 @@ redirect_from:
 * 2012—2016年期间获得南昌大学各类奖学金和荣誉称号（如，“一等学业奖学金”，“杨义根奖学金”、“国家奖学金”、“三好学生”、“理学之星” 等）共计 20 余次
 
 
-国际期刊和会议审稿人
+学术兼职
 ======
+
+**国际会议审稿人**
 * ICML 2025
 * NeurIPS 2024
 * ICLR 2024
@@ -78,7 +80,10 @@ redirect_from:
 * ACM MM 2023、2024
 * AAAI 2023、2024、2025
 * IROS 2019、2020、2021、2022、2023
-* 期刊：TMM, TCSVT, PR, Information Fusion, NeurComputing, RAL 等等
+
+**国际期刊审稿人**
+TMM, TCSVT, PR, Information Fusion, NeurComputing, RAL 等等
+
 
 联系方式
 ======
