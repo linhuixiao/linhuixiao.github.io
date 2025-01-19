@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-我当前是鹏城国家实验室研究助理，博士毕业于中国科学院自动化研究所多模态人工智能系统全国重点实验室，导师为[徐常胜研究员](https://baike.baidu.com/item/%E5%BE%90%E5%B8%B8%E8%83%9C/7074988) （“国家杰青”）和 [杨小汕研究员](https://people.ucas.ac.cn/~yangxiaoshan)（“国家优青”）；博士期间，进入鹏城国家实验室进行联合培养，合作导师为[王耀威研究员](https://people.ucas.ac.cn/~0028522)（“长江学者”）和蓝湘源副研究员。硕士毕业于中国科学院空天信息研究院传感技术国家重点实验室，导师为[邹旭东研究员](https://people.ucas.ac.cn/~zouxudong)。个人长期专注于人工智能、视觉定位关键技术的研究，以第一作者身份在人工智能国际顶级期刊和会议（NeurIPS, ACM MM, TMM, TNNLS, TPAMI, RAS等等）中发表一系列重要研究成果，以第一发明人或学生第一发明人累计获得国家/国际发明专利15+项（其中国际专利2项，已授权专利12项），同时担任10余项人工智能领域顶刊顶会审稿人。当前主要的研究方向为人工智能，多模态学习，多模态视觉定位，三维视觉定位。
+我当前是鹏城国家实验室研究助理，博士毕业于中国科学院自动化研究所多模态人工智能系统全国重点实验室，导师为[徐常胜研究员](https://baike.baidu.com/item/%E5%BE%90%E5%B8%B8%E8%83%9C/7074988) （“国家杰青”）和 [杨小汕研究员](https://people.ucas.ac.cn/~yangxiaoshan)（“国家优青”）；博士期间，进入鹏城国家实验室进行联合培养，合作导师为[王耀威研究员](https://people.ucas.ac.cn/~0028522)（“长江学者”）和蓝湘源副研究员。硕士毕业于中国科学院空天信息研究院传感技术国家重点实验室，导师为[邹旭东研究员](https://people.ucas.ac.cn/~zouxudong)。个人长期专注于人工智能、视觉定位关键技术的研究，以第一作者身份在人工智能国际顶级期刊和会议（NeurIPS, ACM MM, TMM, TNNLS, TPAMI, RAS等等）中发表一系列重要研究成果，以第一发明人或学生第一发明人累计获得国家/国际发明专利 15+ 项（其中已授权专利 12 项，国际专利 2 项），同时担任 10 余项人工智能领域顶刊顶会审稿人。当前主要的研究方向为人工智能，多模态学习，多模态视觉定位，三维视觉定位等等。
 
 
 教育背景
@@ -29,6 +29,19 @@ redirect_from:
 * 2019—2021  中科寒武纪科技股份有限公司，图像处理算法研究员
 * 2018—2019  旷视科技股份有限公司，算法实习研究员
 
+部分论文
+======
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A 国际顶会. [论文](https://openreview.net/pdf?id=siPdcro6uD), [代码下载](https://github.com/linhuixiao/OneRef)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A 国际顶会. [论文](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [代码下载](https://github.com/linhuixiao/HiVG)
+* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 审稿中. CCF-A 国际顶刊. [论文](https://arxiv.org/pdf/2412.20206), [代码下载](https://github.com/linhuixiao/Awesome-Visual-Grounding)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/中科院一区顶刊. [论文](https://arxiv.org/pdf/2305.08685), [代码下载](https://github.com/linhuixiao/CLIP-VG)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." ACM MM 2024. CCF-A 国际顶会. [论文](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [代码下载](https://github.com/linhuixiao/Dynamic-SLAM)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." ACM MM 2024. CCF-A 国际顶会. [论文](https://arxiv.org/pdf/2211.16191), [代码下载](https://github.com/FannierPeng/SgVA-CLIP)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." ACM MM 2024. CCF-A 国际顶会. [论文](https://ieeexplore.ieee.org/abstract/document/10329584)
+
+更多论文，请参考[个人谷歌学术主页](https://scholar.google.com.hk/citations?user=4rTE4ogAAAAJ&hl=zh-CN&oi=ao)
+
+
   
 部分奖励和荣誉
 ======
@@ -37,7 +50,7 @@ redirect_from:
 * 2019、2024年中国科学院大学“三好学生” 2 次
 * 2016年南昌大学优秀本科毕业生（仅前 5% 毕业生获此殊荣）
 * 2015年美国大学生数学建模竞赛，国际一等奖（全球 3 万参赛者仅前 8% 获此殊荣）
-* 2012—2016年获得南昌大学各类奖学金和荣誉称号（如，“三好学生”、“一等学业奖学金”，“杨义根奖学金”、“国家奖学金”等）共计 20 余次
+* 2012—2016年期间获得南昌大学各类奖学金和荣誉称号（如，“三好学生”、“一等学业奖学金”，“杨义根奖学金”、“国家奖学金”等）共计 20 余次
 
 
 期刊和会议审稿人
