@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Linhui Xiao (肖麟慧)"
+title                    : "Linhui Xiao"
 title_separator          : " "
 name                     : "Linhui Xiao (肖麟慧)"
 description              : "personal description"
@@ -22,7 +22,7 @@ repository               : "linhuixiao/linhuixiao.github.io"
 author:
   # Biographic information
   avatar           : "linhui_profile.png"
-  name             : "Linhui Xiao (肖麟慧)"
+  name             : "Dr. Linhui Xiao (肖麟慧)"
   pronouns         : # "he"  
   bio              : "Ph.D. in Artificial Intelligence"
   location         : "Shenzhen, China"
