@@ -13,7 +13,7 @@ redirect_from:
 
 {% include base_path %}
 
--
+~
 
 Journal Articles and Conference Papers
 ======
