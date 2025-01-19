@@ -31,16 +31,29 @@ redirect_from:
 
 部分论文
 ======
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A 国际顶会. [论文](https://openreview.net/pdf?id=siPdcro6uD), [代码下载](https://github.com/linhuixiao/OneRef)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A 国际顶会. [论文](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [代码下载](https://github.com/linhuixiao/HiVG)
-* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 审稿中. CCF-A 国际顶刊. [论文](https://arxiv.org/pdf/2412.20206), [代码下载](https://github.com/linhuixiao/Awesome-Visual-Grounding)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/中科院一区顶刊. [论文](https://arxiv.org/pdf/2305.08685), [代码下载](https://github.com/linhuixiao/CLIP-VG)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." ACM MM 2024. CCF-A 国际顶会. [论文](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [代码下载](https://github.com/linhuixiao/Dynamic-SLAM)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." ACM MM 2024. CCF-A 国际顶会. [论文](https://arxiv.org/pdf/2211.16191), [代码下载](https://github.com/FannierPeng/SgVA-CLIP)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." ACM MM 2024. CCF-A 国际顶会. [论文](https://ieeexplore.ieee.org/abstract/document/10329584)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A 国际顶会. [论文下载](https://openreview.net/pdf?id=siPdcro6uD), [代码链接](https://github.com/linhuixiao/OneRef)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A 国际顶会. [论文下载](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [代码链接](https://github.com/linhuixiao/HiVG)
+* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 审稿中. CCF-A 国际顶刊. [论文下载](https://arxiv.org/pdf/2412.20206), [代码链接](https://github.com/linhuixiao/Awesome-Visual-Grounding)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2305.08685), [代码链接](https://github.com/linhuixiao/CLIP-VG)
+* **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR一区顶刊. [论文下载](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [代码链接](https://github.com/linhuixiao/Dynamic-SLAM)
+* Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. JCR/中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2211.16191), [代码链接](https://github.com/FannierPeng/SgVA-CLIP)
+* Yabo Liu, Jinghua Wang, **Linhui Xiao**, Chengliang Liu, Zhihao Wu, Yong Xu "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." TNNLS 2023. JCR/中科院一区顶刊. [论文下载](https://ieeexplore.ieee.org/abstract/document/10329584)
 
 更多论文，请参考[个人谷歌学术主页](https://scholar.google.com.hk/citations?user=4rTE4ogAAAAJ&hl=zh-CN&oi=ao)
 
+部分发明专利
+======
+* “Data Processing Device, Data Processing Method, And Related Product”，国际专利，国际专利号：WO 2023/045445 A1. 第一发明人. [专利下载](https://patents.google.com/patent/WO2023045445A1/en?oq=WO2023045445A1)
+* “Computing Apparatus, Data Processing Method, And Related Product”, 国际专利号: WO 2023/045446A1.第一发明人. [专利下载](https://patents.google.com/patent/WO2023045446A1/en?oq=WO2023045446A1)
+* “数据处理装置、数据处理方法及相关产品”, 专利号: 202111129610.8等. 2021-05-01，第一发明人.系列专利共计 7 项，寒武纪第三代芯片商业级深度学习核心卷积加速系列算法. [专利下载](https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=5pWw5o2u5aSE55CG6KOF572u44CB5pWw5o2u5aSE55CG5pa55rOV5Y+K55u45YWz5Lqn5ZOBL1lZ&type=cn)
+* “物体定位方法、装置、设备及介质”，专利号：ZL 2024 1 0382411.5. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IEF7EDA4CAACIHA3BBA5AFA9FEDABIA7CDA9EED5CCA9EIE)
+* “物体检测分割方案”, 专利号：ZL 2024 1 0272880.1. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9BGA6DDA6BDA9DDB6EBA8CGA9CFADGHA7FAA9DACDHFA9FIE)
+* “基于掩码指代建模的视觉定位和指代分割方法”，专利号：2024112202703. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HDD4DBAAHIA9DFD5AEA6CDA5BCA8FBA9GIF9EIF9CAA9CHA)
+* “一种多模态视觉语言理解与定位方法、装置、终端及介质”, 专利号. ZL 2023227214-053. 2023.02.01. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EIF6CEA9DEA9CFB2ABA6BFA5BDA9BHE9IAB9DAB2ACA9IAD)
+* “单目视觉信息和IMU信息相融合的尺度估计系统及方法”, No. 201910916403.3. 2019-09-27. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9FEC9FHD8EDAFGHA9HFE9HFDHIHA6AFA9EABAGHA6BFA9BFA)
+* “单目视觉和惯性传感器融合的远距离测距系统及方法”, 专利号. ZL 201910916404.8. 2019-09-27. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=2AAA8BHAAIIABDGA9IDD8IAAABHA4ADA9GBE9AHC6FBA9EGF)
+
+更多专利，请参考[专利检索系统搜索结果](https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=6IKW6bqf5oWnL1lZ&type=cn)
 
   
 部分奖励和荣誉
@@ -48,6 +61,7 @@ redirect_from:
 * 2024年中国科学院大学“攀登一等奖学金”
 * 2023、2024年深圳市鹏城科教基金会“人才发展奖学金” 2 次，（前 10%，单次奖金2万元）
 * 2019、2024年中国科学院大学“三好学生” 2 次
+* 2018年 IEEE 国际机器人与控制会议（IRCE）第一作者最佳口头报告奖、最佳海报奖
 * 2016年南昌大学优秀本科毕业生（仅前 5% 毕业生获此殊荣）
 * 2015年美国大学生数学建模竞赛，国际一等奖（全球 3 万参赛者仅前 8% 获此殊荣）
 * 2012—2016年期间获得南昌大学各类奖学金和荣誉称号（如，“三好学生”、“一等学业奖学金”，“杨义根奖学金”、“国家奖学金”等）共计 20 余次
