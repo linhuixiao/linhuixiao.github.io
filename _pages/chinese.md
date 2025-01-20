@@ -16,8 +16,8 @@ redirect_from:
 ======
 * 2021—2025  博士，[中国科学院大学](https://www.ucas.edu.cn/)
   * [中国科学院自动化研究所](http://www.ia.cas.cn/)，多模态人工智能系统全国重点实验室，北京
-  * 鹏城国家实验室（联合培养），深圳
-  * 国科大 ESI 排名全国第 1，US News全球大学排名第 69，全国第 5 
+  * [鹏城国家实验室](https://www.pcl.ac.cn/)（联合培养），深圳
+  * 国科大 ESI 排名全国第 1，[US News](https://www.eol.cn/shuju/paiming/202406/t20240625_2619264.shtml) 全球大学排名第 69，全国第 5
 * 2016—2019  硕士，[中国科学院大学](https://www.ucas.edu.cn/)
   * [中国科学院空天信息研究院](http://www.aircas.cn/)，传感技术国家重点实验室，北京
 * 2012—2016  本科，[南昌大学](https://www.ncu.edu.cn/)
