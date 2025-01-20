@@ -48,7 +48,7 @@ Selected Awards & Honors
 * 2024 First Prize of the Pandeng Scholarship, UCAS
 * 2023 Shenzhen Pengcheng Science and Education Foundation "Talent Development Scholarship" awarded (Top 5%)
 * 2019 and 2024 "Merit Student" of the University of Chinese Academy of Sciences
-* 2018 IEEE International Conference on Robotics and Control Engineering (IRCE): Best Oral Presentation Award and Best Poster Award
+* 2018 IEEE International Conference on Robotics and Control Engineering (IRCE), Best Oral Presentation Award and Best Poster Award, [News](https://www.irce.org/2018.html)
 * 2016 Outstanding Undergraduate Graduates of Nanchang University (only the top 5% of graduates won this honor)
 * 2015 Mathematical Contest in Modeling for American College Students, International First Prize. (Top 8%, [News 1](https://jwc.ncu.edu.cn/xwdt/20485.htm)，[News 2](http://m.ncu.edu.cn/ndyw/9951640e58f24ea59a6427e50aa2eaa3.htm))
 * From 2012 to 2016, I received various scholarships and honorary titles from Nanchang University (such as the "First-class Academic Scholarship", "Yang Yigen Scholarship", "National Scholarship", "Merit Student", "Star of Science", etc.) on more than 20 occasions.
