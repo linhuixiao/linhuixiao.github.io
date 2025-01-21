@@ -44,9 +44,9 @@ Selected Patents
   
 Selected Awards & Honors
 ======
-* 2024 Shenzhen Pengcheng Science and Education Foundation "Director's Scholarship" awarded (Top 2%, the highest honor for the doctoral students in PCL)
+* 2024 Shenzhen Pengcheng Science and Education Foundation "Director's Scholarship" award (Top 2%, the highest honor for the doctoral students in PCL)
 * 2024 First Prize of the Pandeng Scholarship, UCAS
-* 2023 Shenzhen Pengcheng Science and Education Foundation "Talent Development Scholarship" awarded (Top 5%)
+* 2023 Shenzhen Pengcheng Science and Education Foundation "Talent Development Scholarship" award (Top 5%)
 * 2019 and 2024 "Merit Student" of the University of Chinese Academy of Sciences
 * 2018 IEEE International Conference on Robotics and Control Engineering (IRCE), Best Oral Presentation Award and Best Poster Award, [News](https://www.irce.org/2018.html)
 * 2016 Outstanding Undergraduate Graduates of Nanchang University (only the top 5% of graduates won this honor)
