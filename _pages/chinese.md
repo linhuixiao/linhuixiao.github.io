@@ -27,7 +27,7 @@ redirect_from:
 工作经历
 ======
 * 2021—2025  [鹏城国家实验室](https://www.pcl.ac.cn/)，研究助理
-* 2019—2021  [中科寒武纪科技股份有限公司](https://www.cambricon.com/)，图像处理算法研究员
+* 2019—2021  [中科寒武纪科技股份有限公司](https://www.cambricon.com/)，深度学习算法研究员
 * 2018—2019  [旷视科技股份有限公司](https://www.megvii.com/)，实习算法研究员
 
 部分论文
