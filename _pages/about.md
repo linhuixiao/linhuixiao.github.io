@@ -50,7 +50,7 @@ Selected Awards & Honors
 * 2019 and 2024 "Merit Student" of the University of Chinese Academy of Sciences
 * 2018 IEEE International Conference on Robotics and Control Engineering (IRCE), Best Oral Presentation Award and Best Poster Award, [News](https://www.irce.org/2018.html)
 * 2016 Outstanding Undergraduate Graduates of Nanchang University (only the top 5% of graduates won this honor)
-* 2015 Mathematical Contest in Modeling for American College Students, International First Prize. (Top 8%, [News 1](https://jwc.ncu.edu.cn/xwdt/20485.htm)，[News 2](http://m.ncu.edu.cn/ndyw/9951640e58f24ea59a6427e50aa2eaa3.htm))
+* 2015 Mathematical Contest in Modeling for American College Students, International First Prize. (Top 8%, [News 1](http://m.ncu.edu.cn/ndyw/9951640e58f24ea59a6427e50aa2eaa3.htm)，[News 2](https://jwc.ncu.edu.cn/xwdt/20485.htm))
 * From 2012 to 2016, I received various scholarships and honorary titles from Nanchang University (such as the "First-class Academic Scholarship", "Yang Yigen Scholarship", "National Scholarship", "Merit Student", "Star of Science", etc.) on more than 20 occasions.
 
 
@@ -75,4 +75,9 @@ Academic Services
 Contact
 ======
 * Email: [xiaolinhui16@mails.ucas.ac.cn](xiaolinhui16@mails.ucas.ac.cn)
+* 
+
+**Global Visiting Map**
+
+<a href="https://clustrmaps.com/site/1c5bs"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff" /></a>
 
