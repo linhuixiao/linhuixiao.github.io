@@ -65,7 +65,7 @@ redirect_from:
 * 2019、2024 年中国科学院大学“三好学生” × 2 次
 * 2018 年 IEEE IRCE 国际机器人与控制工程会议，第一作者最佳口头报告奖、最佳海报奖（[新闻报道](https://www.irce.org/2018.html)）
 * 2016 年南昌大学优秀本科毕业生（仅前 5% 毕业生获此殊荣）
-* 2015 年美国大学生数学建模竞赛，国际一等奖（全球 3 万参赛者仅前 8% 获此殊荣，[新闻报道1](https://jwc.ncu.edu.cn/xwdt/20485.htm)，[新闻报道2](http://m.ncu.edu.cn/ndyw/9951640e58f24ea59a6427e50aa2eaa3.htm)）
+* 2015 年美国大学生数学建模竞赛，国际一等奖（全球 3 万参赛者仅前 8% 获此殊荣，[新闻报道1](http://m.ncu.edu.cn/ndyw/9951640e58f24ea59a6427e50aa2eaa3.htm)，[新闻报道2](https://jwc.ncu.edu.cn/xwdt/20485.htm)）
 * 2012—2016年期间获得南昌大学各类奖学金和荣誉称号（如，“一等学业奖学金”，“杨义根奖学金”、“国家奖学金”、“三好学生”、“理学之星” 等）共计 20 余次
 
 
@@ -90,4 +90,9 @@ redirect_from:
 联系方式
 ======
 * 邮件：[xiaolinhui16@mails.ucas.ac.cn](xiaolinhui16@mails.ucas.ac.cn)
+
+
+**访问地图**
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff&w=a"></script>
 
