@@ -94,5 +94,10 @@ redirect_from:
 
 **访问地图**
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff&w=a"></script>
+
+<a href="https://clustrmaps.com/site/1c5bs"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff" /></a>
+
+<!--
+-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff&w=a"></script>
+-->
 
