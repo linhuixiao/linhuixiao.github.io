@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Linhui Xiao"
 title_separator          : " "
-name                     : "Linhui Xiao (肖麟慧)"
+name                     : "Linhui Xiao (肖麟慧) <a href="https://beian.miit.gov.cn/" target="_blank">粤B2-20****59</a>"
 description              : "personal description"
 url                      : https://linhuixiao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
