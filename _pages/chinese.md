@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-现任鹏城国家实验室(研究序列)助理教授，博士生导师。博士毕业于中国科学院自动化研究所多模态人工智能系统全国重点实验室，导师为[徐常胜研究员](https://baike.baidu.com/item/%E5%BE%90%E5%B8%B8%E8%83%9C/7074988) （“国家杰青”）和 [杨小汕研究员](https://people.ucas.ac.cn/~yangxiaoshan)（“国家优青”）；博士期间，进入鹏城国家实验室进行联合培养，合作导师为[王耀威研究员](https://people.ucas.ac.cn/~0028522)（“长江学者”）和[蓝湘源副研究员](https://scholar.google.com.hk/citations?user=c3iwWRcAAAAJ&hl=zh-CN)。硕士毕业于中国科学院空天信息研究院传感技术国家重点实验室，导师为[邹旭东研究员](https://people.ucas.ac.cn/~zouxudong)（“国家青千”）。个人长期专注于深度学习、视觉定位关键技术的研究，以第一作者身份在人工智能国际顶级期刊和会议（NeurIPS, ACM MM, TMM, TNNLS, TPAMI, RAS 等等）发表一系列具有国际影响力的研究成果，其中 1 篇论文入选 ESI 全球前 1% 高被引论文，一作论文单篇引用量最高 400+；同时以第一发明人或学生第一发明人累计获得国家/国际发明专利 15+ 项（其中已授权专利 12 项，国际专利 2 项）。此外，还担任 10 余项人工智能领域国际顶刊顶会审稿人。当前主要的研究方向为人工智能，多模态学习，多模态视觉定位，三维视觉定位等等。
+现任鹏城国家实验室(研究序列)助理教授，博士生导师。博士毕业于中国科学院自动化研究所多模态人工智能系统全国重点实验室，导师为[徐常胜研究员](https://baike.baidu.com/item/%E5%BE%90%E5%B8%B8%E8%83%9C/7074988) （“国家杰青”）和 [杨小汕研究员](https://people.ucas.ac.cn/~yangxiaoshan)（“国家优青”）；博士期间，进入鹏城国家实验室进行联合培养，合作导师为[王耀威研究员](https://people.ucas.ac.cn/~0028522)（“长江学者”）和[蓝湘源副研究员](https://scholar.google.com.hk/citations?user=c3iwWRcAAAAJ&hl=zh-CN)。硕士毕业于中国科学院空天信息研究院传感技术国家重点实验室，导师为[邹旭东研究员](https://people.ucas.ac.cn/~zouxudong)（“国家青千”）。个人长期专注于深度学习、视觉定位关键技术的研究，以第一作者身份在人工智能国际顶级期刊和会议（NeurIPS, TPAMI, ACM MM, TMM, TNNLS, RAS 等等）发表一系列具有国际影响力的研究成果，其中 1 篇论文入选 ESI 全球前 1% 高被引论文，一作论文单篇引用量最高 400+；同时以第一发明人或学生第一发明人累计获得国家/国际发明专利 15+ 项（其中已授权专利 12 项，国际专利 2 项）。此外，还担任 10 余项人工智能领域国际顶刊顶会审稿人。当前主要的研究方向为人工智能，多模态学习，多模态视觉定位，三维视觉定位等等。
 
 
 教育背景
@@ -33,10 +33,10 @@ redirect_from:
 
 部分论文
 ======
+* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2025. CCF-A, JCR/中科院一区国际顶刊. [论文下载](https://arxiv.org/pdf/2412.20206), [代码链接](https://github.com/linhuixiao/Awesome-Visual-Grounding)
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A 国际顶会. [论文下载](https://openreview.net/pdf?id=siPdcro6uD), [代码链接](https://github.com/linhuixiao/OneRef)
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A 国际顶会. [论文下载](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [代码链接](https://github.com/linhuixiao/HiVG)
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2305.08685), [代码链接](https://github.com/linhuixiao/CLIP-VG)
-* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2025. CCF-A 国际顶刊. [论文下载](https://arxiv.org/pdf/2412.20206), [代码链接](https://github.com/linhuixiao/Awesome-Visual-Grounding)
 * **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR一区顶刊. 入选 ESI 全球前 1% 高被引论文. [论文下载](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [代码链接](https://github.com/linhuixiao/Dynamic-SLAM)
 * Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. JCR/中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2211.16191), [代码链接](https://github.com/FannierPeng/SgVA-CLIP)
 * Yabo Liu, Jinghua Wang, **Linhui Xiao**, Chengliang Liu, Zhihao Wu, Yong Xu "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." TNNLS 2023. JCR/中科院一区顶刊. [论文下载](https://ieeexplore.ieee.org/abstract/document/10329584)
@@ -60,9 +60,9 @@ redirect_from:
   
 部分奖励和荣誉
 ======
-* 2025 年北京市“优秀博士毕业生”
-* 2025 年鹏城国家实验室“优秀博士毕业生”
-* 2025 年中国科学院大学“优秀博士毕业生”
+* 2025 年北京市“优秀博士毕业生”（[新闻报道](http://www.ia.cas.cn/xwzx/jryw/202507/t20250701_7877925.html)）
+* 2025 年鹏城国家实验室“优秀博士毕业生”（[新闻报道](https://sz.ifeng.com/c/8lFIHXtQGwu)）
+* 2025 年中国科学院大学“优秀博士毕业生”（[新闻报道](http://www.ia.cas.cn/xwzx/jryw/202507/t20250701_7877925.html)）
 * 2024 年鹏城国家实验室“主任奖学金”，（前 2%，单次奖金 5 万元，PCNL 博士生最高荣誉，[新闻报道](https://www.pcl.ac.cn/html/999/2025-04-06/content-4579.html)）
 * 2024 年中国科学院大学“攀登一等奖学金”
 * 2023 年深圳市鹏城科教基金会“人才发展奖学金”，（前 5%，单次奖金 2 万元）
@@ -90,20 +90,21 @@ redirect_from:
 
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-* Pattern Recognition (PR)
-* Information Fusion
-* NeurComputing
 * IEEE Robotics and Automation Letters (RAL)
+* Pattern Recognition (PR)
+* Information Fusion (IF)
+* NeurComputing
 * 等等
 
 
 联系方式
 ======
+
 * 邮件：[xiaolinhui16@mails.ucas.ac.cn](xiaolinhui16@mails.ucas.ac.cn)
 
 
-**访问地图**
-
+访问地图
+======
 
 <a href="https://clustrmaps.com/site/1c5bs"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff" /></a>
 
