@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My Chinese Name is 肖麟慧. I'm currently a Research Assistant Professor at Pengcheng Laboratory. I obtained my Ph.D. degree from the National Key Laboratory of Multimodal Artificial Intelligence Systems at the Institute of Automation, Chinese Academy of Sciences. My doctoral advisors were [Prof. Changsheng Xu](https://scholar.google.com.hk/citations?user=hI9NRDkAAAAJ&hl=zh-CN) and [Prof. Xiaoshan Yang](https://yangxs.ac.cn/home). During the doctoral period, I entered Pengcheng Laboratory for joint cultivation under the guidance of [Prof. Yaowei Wang](https://scholar.google.com.hk/citations?user=o_DllmIAAAAJ&hl=zh-CN) and [Prof. Lan Xiangyuan](https://scholar.google.com.hk/citations?user=c3iwWRcAAAAJ&hl=zh-CN). I obtained my Master's degree from the State Key Laboratory of Transducer Technology, Chinese Academy of Sciences, where my advisor was [Prof. Xudong Zou](https://scholar.google.com.hk/citations?user=Fku_O9IAAAAJ&hl=zh-CN). I have long focused on the research of key technologies in artificial intelligence and visual grounding, publishing a series of influential research works in the top international journals and conferences on artificial intelligence (eg, NeurIPS, ACM MM, TMM, TNNLS, TPAMI, RAS, etc.). One of the papers was included in ESI's global top 1% highly cited papers. As the first inventor or student first inventor, I have accumulated over 15 Chinese and international invention patents (including 12 authorized Chinese patents and two international patents), and served as a reviewer for more than 10 top international journals and conferences in the field of artificial intelligence. My current research interests include artificial intelligence, multimodal learning, multimodal visual grounding, three-dimensional visual grounding, etc.
+My Chinese Name is 肖麟慧. I'm currently a Research Assistant Professor at Pengcheng Laboratory. I obtained my Ph.D. degree from the National Key Laboratory of Multimodal Artificial Intelligence Systems at the Institute of Automation, Chinese Academy of Sciences. My doctoral advisors were [Prof. Changsheng Xu](https://scholar.google.com.hk/citations?user=hI9NRDkAAAAJ&hl=zh-CN) and [Prof. Xiaoshan Yang](https://yangxs.ac.cn/home). During the doctoral period, I entered Pengcheng Laboratory for joint cultivation under the guidance of [Prof. Yaowei Wang](https://scholar.google.com.hk/citations?user=o_DllmIAAAAJ&hl=zh-CN) and [Prof. Lan Xiangyuan](https://scholar.google.com.hk/citations?user=c3iwWRcAAAAJ&hl=zh-CN). I obtained my Master's degree from the State Key Laboratory of Transducer Technology, Chinese Academy of Sciences, where my advisor was [Prof. Xudong Zou](https://scholar.google.com.hk/citations?user=Fku_O9IAAAAJ&hl=zh-CN). I have long focused on the research of key technologies in artificial intelligence and visual grounding, publishing a series of influential research works in top international journals and conferences on artificial intelligence (e.g., NeurIPS, TPAMI, ACM MM, TMM, TNNLS, RAS, etc.). One of the papers was included in ESI's global top 1% highly cited papers. As the first inventor or student first inventor, I have accumulated over 15 Chinese and international invention patents (including 12 authorized Chinese patents and two international patents), and served as a reviewer for more than 10 top international journals and conferences in the field of artificial intelligence. My current research interests include artificial intelligence, multimodal learning, multimodal visual grounding, and three-dimensional visual localization, etc.
 
 
 Education Background
@@ -27,7 +27,7 @@ Selected Publications
 ======
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A top conference. [Download Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef)
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A top conference. [Download Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [Code](https://github.com/linhuixiao/HiVG)
-* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2024 reviewing. CCF-A top journal. [Download Paper](https://arxiv.org/pdf/2412.20206), [Code](https://github.com/linhuixiao/Awesome-Visual-Grounding)
+* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2025. CCF-A/JCR/CAS top journal. [Download Paper](https://arxiv.org/pdf/2412.20206), [Code](https://github.com/linhuixiao/Awesome-Visual-Grounding)
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/CAS top journal. [Download Paper](https://arxiv.org/pdf/2305.08685), [Code](https://github.com/linhuixiao/CLIP-VG)
 * **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR top journal. ESI top 1% highly cited papers globally. [Download Paper](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [Code](https://github.com/linhuixiao/Dynamic-SLAM)
 * Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. JCR/CAS top journal. [Download Paper](https://arxiv.org/pdf/2211.16191), [Code](https://github.com/FannierPeng/SgVA-CLIP)
@@ -44,6 +44,9 @@ Selected Patents
   
 Selected Awards & Honors
 ======
+* 2025 Outstanding Ph.D. Graduate of Beijing
+* 2025 Outstanding Ph.D. Graduate of Pengcheng Laboratory
+* 2025 Outstanding Ph.D. Graduate of the University of Chinese Academy of Sciences
 * 2024 Shenzhen Pengcheng Science and Education Foundation "Director's Scholarship" award (Top 2%, the highest honor for the doctoral students in PCL)
 * 2024 First Prize of the Pandeng Scholarship, UCAS
 * 2023 Shenzhen Pengcheng Science and Education Foundation "Talent Development Scholarship" award (Top 5%)
@@ -60,24 +63,32 @@ Academic Services
 **Conference Reviewer**
 
 * ICML 2025
-* NeurIPS 2024
-* ICLR 2024
-* ECCV 2024
+* NeurIPS 2024, 2025
+* ICLR 2024, 2025, 2026
+* ECCV 2024, 2025
 * CVPR 2024
-* ACM MM 2023、2024
-* AAAI 2023、2024、2025
+* ACM MM 2023、2024, 2025
+* AAAI 2023、2024、2025, 2026
 * IROS 2019、2020、2021、2022、2023
 
 **Journal Reviewer**
  
-* TMM, TCSVT, PR, Information Fusion, NeurComputing, RAL, etc.
+* IEEE Transactions on Multimedia (TMM)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* IEEE Robotics and Automation Letters (RA-L)
+* Pattern Recognition (PR)
+* Information Fusion (IF)
+* NeurComputing
+* etc.
+
 
 Contact
 ======
 * Email: [xiaolinhui16@mails.ucas.ac.cn](xiaolinhui16@mails.ucas.ac.cn)
 
 
-**Global Visiting Map**
+Global Visiting Map
+======
 
 <a href="https://clustrmaps.com/site/1c5bs"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff" /></a>
 
