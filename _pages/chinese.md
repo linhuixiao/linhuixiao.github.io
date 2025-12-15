@@ -82,14 +82,15 @@ redirect_from:
 ======
 
 **国际会议审稿人**
-* ICML 2025
-* NeurIPS 2024, 2025
 * ICLR 2024, 2025, 2026
-* ECCV 2024, 2025
 * CVPR 2024, 2025, 2026
-* ACM MM 2023, 2024, 2025
 * AAAI 2023, 2024, 2025, 2026
+* NeurIPS 2024, 2025
+* ICML 2025
+* ECCV 2024, 2025
+* ACM MM 2023, 2024, 2025
 * IROS 2019, 2020, 2021, 2022, 2023
+
 
 **国际期刊审稿人**
 
@@ -108,7 +109,7 @@ redirect_from:
 * 邮件：[xiaolinhui16@mails.ucas.ac.cn](xiaolinhui16@mails.ucas.ac.cn)
 
 
-访问地图
+全球访问地图
 ======
 
 <a href="https://clustrmaps.com/site/1c5bs"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff" /></a>
