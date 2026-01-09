@@ -96,6 +96,7 @@ redirect_from:
 
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Robotics and Automation Letters (RAL)
 * Pattern Recognition (PR)
 * Information Fusion (IF)
