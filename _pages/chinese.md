@@ -38,6 +38,8 @@ redirect_from:
 
 部分论文
 ======
+* Hongbing Li, **Linhui Xiao\***, Zihan Zhao, Qi Shen, Yixiang Huang, Bo Xiao, Zhanyu Ma. "BARE: Towards Bias-Aware and Reasoning-Enhanced One-Tower Visual Grounding." arXiv preprint arXiv:2601.01526 (2026). Under Review, 通讯作者. [论文下载](https://arxiv.org/pdf/2601.01526), [代码链接](https://github.com/Marloweeee/BARE)
+* Tianyi Zhao, Jiawen Xi, **Linhui Xiao**, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei. "RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios." arXiv preprint arXiv:2512.24561 (2026). Under Review. [论文下载](https://arxiv.org/pdf/2512.24561), [代码链接]()
 * **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2025. CCF-A, JCR/中科院一区国际顶刊. [论文下载](https://arxiv.org/pdf/2412.20206), [代码链接](https://github.com/linhuixiao/Awesome-Visual-Grounding)
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A 国际顶会. [论文下载](https://openreview.net/pdf?id=siPdcro6uD), [代码链接](https://github.com/linhuixiao/OneRef)，[PPT](https://nips.cc/media/neurips-2024/Slides/93378_ROahXfO.pdf)
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A 国际顶会. [论文下载](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [代码链接](https://github.com/linhuixiao/HiVG)
