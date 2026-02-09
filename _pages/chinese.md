@@ -122,8 +122,9 @@ redirect_from:
 全球访问地图
 ======
 
-<div style="width: 600px; max-width: 100%; margin: auto;">
-  <script type="text/javascript" id="clustrmaps" 
+
+<div style="width: 100%; max-width: 1000px; margin: auto;">
+  <script type="text/javascript" id="clustrmaps"
     src="//clustrmaps.com/map_v2.js?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff&w=a">
   </script>
 </div>
