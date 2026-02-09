@@ -64,15 +64,16 @@ redirect_from:
 
 更多专利，请参考[专利检索系统搜索结果](https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=6IKW6bqf5oWnL1lZ&type=cn)。
 
-部分学术科研奖励和荣誉
+部分奖励和荣誉
 ======
+
+**学术科研荣誉**
 * 2025 年吴文俊人工智能科学技术奖，国家级，技术发明一等奖（中国人工智能领域最高奖，[新闻报道](https://www.caai.cn/site/content/5464.html)）
 * 2025 年北京市“优秀博士毕业生”（[新闻报道](http://www.ia.cas.cn/xwzx/jryw/202507/t20250701_7877925.html)）
 * 2018 年 IEEE IRCE 国际机器人与控制工程会议，第一作者最佳口头报告奖、最佳海报奖（[新闻报道](https://www.irce.org/2018.html)）
 
 
-部分学业奖励和荣誉
-======
+**学业奖励**
 * 2025 年北京市“优秀博士毕业生”（[新闻报道](http://www.ia.cas.cn/xwzx/jryw/202507/t20250701_7877925.html)）
 * 2025 年鹏城国家实验室“优秀博士毕业生”（[新闻报道](https://sz.ifeng.com/c/8lFIHXtQGwu)）
 * 2025 年中国科学院大学“优秀博士毕业生”（[新闻报道](http://www.ia.cas.cn/xwzx/jryw/202507/t20250701_7877925.html)）
