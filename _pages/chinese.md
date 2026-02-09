@@ -122,9 +122,11 @@ redirect_from:
 全球访问地图
 ======
 
-<a href="https://clustrmaps.com/site/1c5bs"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff" /></a>
-
-<!--
--  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff&w=a"></script>
--->
+<a href="https://clustrmaps.com/site/1c5bs" title="ClustrMaps" target="_blank" style="display: inline-block;">
+    <img 
+        src="//www.clustrmaps.com/map_v2.png?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff" 
+        alt="ClustrMaps" 
+        style="width: 600px; height: auto; max-width: 100%;"
+    />
+</a>
 
