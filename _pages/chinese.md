@@ -38,11 +38,11 @@ redirect_from:
 
 部分论文
 ======
-* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2025. CCF-A, JCR/中科院一区国际顶刊. [论文下载](https://arxiv.org/pdf/2412.20206), [代码链接](https://github.com/linhuixiao/Awesome-Visual-Grounding)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A 国际顶会. [论文下载](https://openreview.net/pdf?id=siPdcro6uD), [代码链接](https://github.com/linhuixiao/OneRef)，[PPT](https://nips.cc/media/neurips-2024/Slides/93378_ROahXfO.pdf)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A 国际顶会. [论文下载](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [代码链接](https://github.com/linhuixiao/HiVG)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2305.08685), [代码链接](https://github.com/linhuixiao/CLIP-VG)
-* **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR一区顶刊. **入选 ESI 全球前 1% 高被引论文**. [论文下载](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [代码链接](https://github.com/linhuixiao/Dynamic-SLAM)
+* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2025. CCF-A, JCR/中科院一区国际顶刊，唯一第一作者. [论文下载](https://arxiv.org/pdf/2412.20206), [代码链接](https://github.com/linhuixiao/Awesome-Visual-Grounding)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A 国际顶会，唯一第一作者. [论文下载](https://openreview.net/pdf?id=siPdcro6uD), [代码链接](https://github.com/linhuixiao/OneRef)，[PPT](https://nips.cc/media/neurips-2024/Slides/93378_ROahXfO.pdf)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A 国际顶会，唯一第一作者. [论文下载](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [代码链接](https://github.com/linhuixiao/HiVG)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/中科院一区顶刊，唯一第一作者. [论文下载](https://arxiv.org/pdf/2305.08685), [代码链接](https://github.com/linhuixiao/CLIP-VG)
+* **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR一区顶刊，唯一第一作者. **入选 ESI 全球前 1% 高被引论文**. [论文下载](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [代码链接](https://github.com/linhuixiao/Dynamic-SLAM)
 * Hongbing Li, **Linhui Xiao\***, Zihan Zhao, Qi Shen, Yixiang Huang, Bo Xiao, Zhanyu Ma. "BARE: Towards Bias-Aware and Reasoning-Enhanced One-Tower Visual Grounding." arXiv preprint arXiv:2601.01526 (2026). Under Review, 通讯作者. [论文下载](https://arxiv.org/pdf/2601.01526), [代码链接](https://github.com/Marloweeee/BARE)
 * Tianyi Zhao, Jiawen Xi, **Linhui Xiao**, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei. "RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios." arXiv preprint arXiv:2512.24561 (2026). Under Review. [论文下载](https://arxiv.org/pdf/2512.24561), [代码链接]()
 * Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. JCR/中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2211.16191), [代码链接](https://github.com/FannierPeng/SgVA-CLIP)
@@ -64,8 +64,14 @@ redirect_from:
 
 更多专利，请参考[专利检索系统搜索结果](https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=6IKW6bqf5oWnL1lZ&type=cn)。
 
-  
-部分奖励和荣誉
+部分学术科研奖励和荣誉
+======
+* 2025 年吴文俊人工智能科学技术奖，国家级，技术发明一等奖（中国人工智能领域最高奖，[新闻报道](https://www.caai.cn/site/content/5464.html)）
+* 2025 年北京市“优秀博士毕业生”（[新闻报道](http://www.ia.cas.cn/xwzx/jryw/202507/t20250701_7877925.html)）
+* 2018 年 IEEE IRCE 国际机器人与控制工程会议，第一作者最佳口头报告奖、最佳海报奖（[新闻报道](https://www.irce.org/2018.html)）
+
+
+部分学业奖励和荣誉
 ======
 * 2025 年北京市“优秀博士毕业生”（[新闻报道](http://www.ia.cas.cn/xwzx/jryw/202507/t20250701_7877925.html)）
 * 2025 年鹏城国家实验室“优秀博士毕业生”（[新闻报道](https://sz.ifeng.com/c/8lFIHXtQGwu)）
@@ -74,7 +80,6 @@ redirect_from:
 * 2024 年中国科学院大学“攀登一等奖学金”
 * 2023 年深圳市鹏城科教基金会“人才发展奖学金”，（前 5%，单次奖金 2 万元）
 * 2019、2024 年中国科学院大学“三好学生” × 2 次
-* 2018 年 IEEE IRCE 国际机器人与控制工程会议，第一作者最佳口头报告奖、最佳海报奖（[新闻报道](https://www.irce.org/2018.html)）
 * 2016 年南昌大学优秀本科毕业生（仅前 5% 毕业生获此殊荣）
 * 2015 年美国大学生数学建模竞赛，国际一等奖（全球 3 万参赛者仅前 8% 获此殊荣，[新闻报道1](http://m.ncu.edu.cn/ndyw/9951640e58f24ea59a6427e50aa2eaa3.htm)，[新闻报道2](https://jwc.ncu.edu.cn/xwdt/20485.htm)）
 * 2012—2016年期间获得南昌大学各类奖学金和荣誉称号共计 20 余次（如，“国家奖学金”、“杨义根奖学金”、“一等学业奖学金”，“三好学生”、“理学之星” 等）
