@@ -68,7 +68,7 @@ redirect_from:
 ======
 
 **学术科研荣誉**
-* 2025 年吴文俊人工智能科学技术奖，国家级，技术发明一等奖（中国人工智能领域最高奖，[新闻报道](https://www.caai.cn/site/content/5464.html)）
+* 2025 年吴文俊人工智能科学技术奖，国家级，技术发明一等奖（**中国人工智能领域最高奖**，[新闻报道](https://www.caai.cn/site/content/5464.html)）
 * 2025 年北京市“优秀博士毕业生”（[新闻报道](http://www.ia.cas.cn/xwzx/jryw/202507/t20250701_7877925.html)）
 * 2018 年 IEEE IRCE 国际机器人与控制工程会议，第一作者最佳口头报告奖、最佳海报奖（[新闻报道](https://www.irce.org/2018.html)）
 
