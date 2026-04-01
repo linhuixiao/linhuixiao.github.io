@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**现任鹏城国家实验室(研究序列)助理教授，博士生导师，深圳市高层次引进人才**。博士毕业于中国科学院自动化研究所多模态人工智能系统国家重点实验室，导师为徐常胜研究员（“国家杰青”）和 杨小汕研究员（“国家优青”）；博士期间，进入鹏城国家实验室进行联合培养，合作导师为王耀威研究员（“长江学者”）和蓝湘源副研究员。硕士毕业于中国科学院空天信息研究院，导师为邹旭东研究员（“国家青千”）。硕士毕业后，曾在国内顶尖人工智能芯片上市企业[寒武纪科技](https://www.cambricon.com/)股份有限公司担任深度学习算法研究员，从事寒武纪第三代 7nm AI 芯片的软硬件栈研发。
+**现任鹏城国家实验室(研究序列)助理教授，博士生导师，深圳市高层次引进人才**，曾获得2025年中国吴文俊人工智能科学技术奖技术发明一等奖[1](https://www.caai.cn/site/content/5526.html)，以及北京市“优秀博士毕业生”、中国科学院“优秀博士毕业生”。博士毕业于中国科学院自动化研究所多模态人工智能系统国家重点实验室，导师为徐常胜研究员（“国家杰青”）和 杨小汕研究员（“国家优青”）；博士期间，进入鹏城国家实验室进行联合培养，合作导师为王耀威研究员（“长江学者”）和蓝湘源副研究员。硕士毕业于中国科学院空天信息研究院，导师为邹旭东研究员（“国家青千”）。硕士毕业后，曾在国内顶尖人工智能芯片上市企业[寒武纪科技](https://www.cambricon.com/)股份有限公司担任深度学习算法研究员，从事寒武纪第三代 7nm AI 芯片的软硬件栈研发。
 
 在研究领域，个人长期专注于深度学习、视觉定位关键技术的研究，以第一作者身份在人工智能国际顶级期刊和会议（NeurIPS, TPAMI, ACM MM, TMM, TNNLS, RAS 等等）发表一系列具有国际影响力的研究成果，其中 **1** 篇论文入选 ESI 全球**前 1%** 高被引论文，一作论文单篇引用量最高 **400+**；同时以第一发明人或学生第一发明人累计获得国家/国际发明专利 **15+** 项（其中已授权专利 **12** 项，国际专利 **2** 项）。此外，还担任 **10** 余项人工智能领域国际顶刊顶会审稿人。本人当前的主要研究方向为人工智能，多模态学习，多模态视觉定位，三维视觉定位等，致力于开发高效且具可泛化能力的算法，用于解决真实世界中的视觉理解任务，推动机器智能的广泛应用。
 
@@ -44,7 +44,7 @@ redirect_from:
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/中科院国际一区顶刊，唯一第一作者. [论文下载](https://arxiv.org/pdf/2305.08685), [代码链接](https://github.com/linhuixiao/CLIP-VG)
 * **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR国际一区顶刊，唯一第一作者. **入选 ESI 全球前 1% 高被引论文**. [论文下载](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [代码链接](https://github.com/linhuixiao/Dynamic-SLAM)
 * **Linhui Xiao**, Guiping Cao, Mingyue Guo, et al., A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design. CJE 2026, 中国知名期刊，唯一第一作者. [论文下载](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.438)
-* Hongbing Li, **Linhui Xiao\***, Zihan Zhao, Qi Shen, Yixiang Huang, Bo Xiao, Zhanyu Ma. "BARE: Towards Bias-Aware and Reasoning-Enhanced One-Tower Visual Grounding." arXiv preprint arXiv:2601.01526 (2026). Under Review, 通讯作者. [论文下载](https://arxiv.org/pdf/2601.01526), [代码链接](https://github.com/Marloweeee/BARE)
+* Hongbing Li, **Linhui Xiao (通讯作者)**, Zihan Zhao, Qi Shen, Yixiang Huang, Bo Xiao, Zhanyu Ma. "BARE: Towards Bias-Aware and Reasoning-Enhanced One-Tower Visual Grounding." IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2026). 中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2601.01526), [代码链接](https://github.com/Marloweeee/BARE)
 * Tianyi Zhao, Jiawen Xi, **Linhui Xiao**, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei. "RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios." arXiv preprint arXiv:2512.24561 (2026). Under Review. [论文下载](https://arxiv.org/pdf/2512.24561), [代码链接]()
 * Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. JCR/中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2211.16191), [代码链接](https://github.com/FannierPeng/SgVA-CLIP)
 * Yabo Liu, Jinghua Wang, **Linhui Xiao**, Chengliang Liu, Zhihao Wu, Yong Xu "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." TNNLS 2023. JCR/中科院一区顶刊. [论文下载](https://ieeexplore.ieee.org/abstract/document/10329584)
@@ -95,7 +95,7 @@ redirect_from:
 * ICLR 2024, 2025, 2026
 * CVPR 2024, 2025, 2026
 * AAAI 2023, 2024, 2025, 2026
-* NeurIPS 2024, 2025
+* NeurIPS 2024, 2025, 2026
 * ICML 2025
 * ECCV 2024, 2026
 * ACM MM 2023, 2024, 2025
@@ -104,6 +104,7 @@ redirect_from:
 
 **国际期刊审稿人**
 
+* IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
