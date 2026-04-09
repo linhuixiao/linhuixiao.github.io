@@ -81,9 +81,11 @@ Academic Services
 
 **Journal Reviewer**
  
+* IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-* IEEE Robotics and Automation Letters (RA-L)
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Robotics and Automation Letters (RAL)
 * Pattern Recognition (PR)
 * Information Fusion (IF)
 * NeurComputing
