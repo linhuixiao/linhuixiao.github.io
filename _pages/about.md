@@ -94,7 +94,7 @@ Academic Services
 
 Contact
 ======
-* Email: [xiaolinhui16@mails.ucas.ac.cn](xiaolinhui16@mails.ucas.ac.cn)
+* Email: xiaolinhui16<at>mails.ucas.ac.cn
 
 
 Global Visiting Map
