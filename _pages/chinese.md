@@ -118,7 +118,7 @@ redirect_from:
 联系方式
 ======
 
-* 邮件：[xiaolinhui16@mails.ucas.ac.cn](xiaolinhui16@mails.ucas.ac.cn)
+* 邮件：xiaolinhui16<at>mails.ucas.ac.cn.
 
 
 全球访问地图
