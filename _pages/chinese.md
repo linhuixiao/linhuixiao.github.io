@@ -104,6 +104,7 @@ redirect_from:
 
 **国际期刊审稿人**
 
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
