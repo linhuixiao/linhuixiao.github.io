@@ -37,7 +37,7 @@ Selected Publications
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/CAS top journal. [Download Paper](https://arxiv.org/pdf/2305.08685), [Code](https://github.com/linhuixiao/CLIP-VG)
 * **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR top journal. ESI top 1% highly cited papers globally. [Download Paper](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [Code](https://github.com/linhuixiao/Dynamic-SLAM)
 * **Linhui Xiao**, Guiping Cao, Mingyue Guo, et al., A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design. CJE 2026. [Download Paper](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.438)
-* Hongbing Li, **Linhui Xiao\***, Zihan Zhao, Qi Shen, Yixiang Huang, Bo Xiao, Zhanyu Ma. "BARE: Towards Bias-Aware and Reasoning-Enhanced One-Tower Visual Grounding." arXiv preprint arXiv:2601.01526 (2026). Under Review, Corresponding author. [Download Paper](https://arxiv.org/pdf/2601.01526), [Code](https://github.com/Marloweeee/BARE)
+* Hongbing Li, **Linhui Xiao\***, Zihan Zhao, Qi Shen, Yixiang Huang, Bo Xiao, Zhanyu Ma. "BARE: Towards Bias-Aware and Reasoning-Enhanced One-Tower Visual Grounding." TCSVT 2026. JCR/CAS top journal. Corresponding author. [Download Paper](https://arxiv.org/pdf/2601.01526), [Code](https://github.com/Marloweeee/BARE)
 * Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. JCR/CAS top journal. [Download Paper](https://arxiv.org/pdf/2211.16191), [Code](https://github.com/FannierPeng/SgVA-CLIP)
 * Yabo Liu, Jinghua Wang, **Linhui Xiao**, Chengliang Liu, Zhihao Wu, Yong Xu "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." TNNLS 2023. JCR/CAS top journal. [Download Paper](https://ieeexplore.ieee.org/abstract/document/10329584)
 
@@ -81,6 +81,7 @@ Academic Services
 
 **Journal Reviewer**
  
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
