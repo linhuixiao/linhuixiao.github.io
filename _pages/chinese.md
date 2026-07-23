@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**现任鹏城国家实验室(研究序列)助理教授，博士生导师，深圳市高层次引进人才**，曾获得2025年中国吴文俊人工智能科学技术奖技术发明一等奖[[1](https://www.caai.cn/site/content/5526.html)]，以及北京市“优秀博士毕业生”、中国科学院“优秀博士毕业生”。博士毕业于中国科学院自动化研究所多模态人工智能系统国家重点实验室，导师为徐常胜研究员（“国家杰青”）和 杨小汕研究员（“国家优青”）；博士期间，进入鹏城国家实验室进行联合培养，合作导师为王耀威研究员（“长江学者”）和蓝湘源副研究员。硕士毕业于中国科学院空天信息研究院，导师为邹旭东研究员（“国家青千”）。硕士毕业后，曾在国内顶尖人工智能芯片上市企业[寒武纪科技](https://www.cambricon.com/)股份有限公司担任深度学习算法研究员，从事寒武纪第三代 7nm AI 芯片的软硬件栈研发。
+**现任鹏城国家实验室(研究序列)助理教授，博士生导师，深圳市高层次引进人才，曾获得2025年中国吴文俊人工智能科学技术奖技术发明一等奖[[1](https://www.caai.cn/site/content/5526.html)]，以及北京市“优秀博士毕业生”、中国科学院“优秀博士毕业生”**。博士毕业于中国科学院自动化研究所多模态人工智能系统国家重点实验室，导师为徐常胜研究员（“国家杰青”）和 杨小汕研究员（“国家优青”）；博士期间，进入鹏城国家实验室进行联合培养，合作导师为王耀威研究员（“长江学者”）和蓝湘源副研究员。硕士毕业于中国科学院空天信息研究院，导师为邹旭东研究员（“国家青千”）。硕士毕业后，曾在国内顶尖人工智能芯片上市企业[寒武纪科技](https://www.cambricon.com/)股份有限公司担任深度学习算法研究员，从事寒武纪第三代 7nm AI 芯片的软硬件栈研发。
 
 在研究领域，个人长期专注于深度学习、视觉定位关键技术的研究，以第一作者/通讯作者身份在人工智能国际顶级期刊和会议（NeurIPS, TPAMI, ACM MM, TMM, TNNLS, RAS 等等）发表一系列具有国际影响力的研究成果，其中 **1** 篇论文入选 ESI 全球**前 1%** 高被引论文，一作论文单篇引用量最高 **400+**；同时以第一发明人或学生第一发明人累计获得国家/国际发明专利 **15+** 项（其中已授权专利 **12** 项，国际专利 **2** 项）。此外，还担任 **10** 余项人工智能领域国际顶刊顶会审稿人。本人当前的主要研究方向为人工智能，多模态学习，多模态视觉定位，三维视觉定位等，致力于开发高效且具可泛化能力的算法，用于解决真实世界中的视觉理解任务，推动机器智能的广泛应用。
 
@@ -31,23 +31,23 @@ redirect_from:
 
 工作经历
 ======
-* 2025—至今  [鹏城国家实验室](https://www.pcl.ac.cn/)，助理教授，博士生导师
+* 2025—至今  [鹏城国家实验室](https://www.pcl.ac.cn/)，助理教授，联培博士生导师
 * 2021—2025  [鹏城国家实验室](https://www.pcl.ac.cn/)，研究助理
 * 2019—2021  [中科寒武纪科技股份有限公司](https://www.cambricon.com/)，深度学习算法研究员
 * 2018—2019  [旷视科技股份有限公司](https://www.megvii.com/)，实习算法研究员
 
 部分论文
 ======
-* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2025. CCF-A, JCR/中科院一区国际顶刊，唯一第一作者. [论文下载](https://arxiv.org/pdf/2412.20206), [代码链接](https://github.com/linhuixiao/Awesome-Visual-Grounding)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A 国际顶会，唯一第一作者. [论文下载](https://openreview.net/pdf?id=siPdcro6uD), [代码链接](https://github.com/linhuixiao/OneRef)，[PPT](https://nips.cc/media/neurips-2024/Slides/93378_ROahXfO.pdf)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A 国际顶会，唯一第一作者. [论文下载](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [代码链接](https://github.com/linhuixiao/HiVG)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/中科院国际一区顶刊，唯一第一作者. [论文下载](https://arxiv.org/pdf/2305.08685), [代码链接](https://github.com/linhuixiao/CLIP-VG)
-* **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR国际一区顶刊，唯一第一作者. **入选 ESI 全球前 1% 高被引论文**. [论文下载](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [代码链接](https://github.com/linhuixiao/Dynamic-SLAM)
-* **Linhui Xiao**, Guiping Cao, Mingyue Guo, et al., A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design. CJE 2026, 中国知名期刊，唯一第一作者. [论文下载](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.438)
+* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2025). CCF-A, JCR/中科院一区国际顶刊，唯一第一作者. [论文下载](https://arxiv.org/pdf/2412.20206), [代码链接](https://github.com/linhuixiao/Awesome-Visual-Grounding)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." 38th Conference on Neural Information Processing Systems (NeurIPS 2024). CCF-A 国际顶会，唯一第一作者. [论文下载](https://openreview.net/pdf?id=siPdcro6uD), [代码链接](https://github.com/linhuixiao/OneRef)，[PPT](https://nips.cc/media/neurips-2024/Slides/93378_ROahXfO.pdf)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM Multimedia (ACM MM, 2024). CCF-A 国际顶会，唯一第一作者. [论文下载](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [代码链接](https://github.com/linhuixiao/HiVG)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." IEEE Transactions on Multimedia (TMM 2023). JCR/中科院国际一区顶刊，唯一第一作者. [论文下载](https://arxiv.org/pdf/2305.08685), [代码链接](https://github.com/linhuixiao/CLIP-VG)
+* **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." Robotics and Autonomous Systems (RAS). JCR国际一区顶刊，唯一第一作者. **入选 ESI 全球前 1% 高被引论文**. [论文下载](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [代码链接](https://github.com/linhuixiao/Dynamic-SLAM)
+* **Linhui Xiao**, Guiping Cao, Mingyue Guo, et al., A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design. Chinese Journal of Electronics (CJE 2026). 中国知名期刊，唯一第一作者. [论文下载](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.438)
 * Hongbing Li, **Linhui Xiao (通讯作者)**, Zihan Zhao, Qi Shen, Yixiang Huang, Bo Xiao, Zhanyu Ma. "BARE: Towards Bias-Aware and Reasoning-Enhanced One-Tower Visual Grounding." IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2026). 中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2601.01526), [代码链接](https://github.com/Marloweeee/BARE)
-* Tianyi Zhao, Jiawen Xi, **Linhui Xiao**, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei. "RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios." ECCV 2026. 国际顶会. [论文下载](https://arxiv.org/pdf/2512.24561), [代码链接]()
-* Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. JCR/中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2211.16191), [代码链接](https://github.com/FannierPeng/SgVA-CLIP)
-* Yabo Liu, Jinghua Wang, **Linhui Xiao**, Chengliang Liu, Zhihao Wu, Yong Xu "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." TNNLS 2023. JCR/中科院一区顶刊. [论文下载](https://ieeexplore.ieee.org/abstract/document/10329584)
+* Tianyi Zhao, Jiawen Xi, **Linhui Xiao**, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei. "RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios." European Conference on Computer Vision (ECCV 2026). 国际顶会. [论文下载](https://arxiv.org/pdf/2512.24561), [代码链接]()
+* Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." IEEE Transactions on Multimedia (TMM 2023). JCR/中科院一区顶刊. [论文下载](https://arxiv.org/pdf/2211.16191), [代码链接](https://github.com/FannierPeng/SgVA-CLIP)
+* Yabo Liu, Jinghua Wang, **Linhui Xiao**, Chengliang Liu, Zhihao Wu, Yong Xu "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2023). JCR/中科院一区顶刊. [论文下载](https://ieeexplore.ieee.org/abstract/document/10329584)
 
 更多论文，请参考[个人谷歌学术主页](https://scholar.google.com.hk/citations?user=4rTE4ogAAAAJ&hl=zh-CN&oi=ao)。
 
@@ -96,10 +96,10 @@ redirect_from:
 * CVPR 2024, 2025, 2026
 * AAAI 2023, 2024, 2025, 2026
 * NeurIPS 2024, 2025, 2026
-* ICML 2025
+* ICML 2025, 2026
 * ECCV 2024, 2026
-* ACM MM 2023, 2024, 2025
-* IROS 2019, 2020, 2021, 2022, 2023
+* ACM MM 2023, 2024, 2025, 2026
+* IROS 2019, 2020, 2021, 2022, 2023, 2024
 
 
 **国际期刊审稿人**
