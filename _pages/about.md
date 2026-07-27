@@ -34,13 +34,13 @@ Selected Publications
 * **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2025. CCF-A/JCR/CAS top journal. [Download Paper](https://arxiv.org/pdf/2412.20206), [Code](https://github.com/linhuixiao/Awesome-Visual-Grounding)
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A top conference. [Download Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef), [Slide](https://nips.cc/media/neurips-2024/Slides/93378_ROahXfO.pdf)
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A top conference. [Download Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [Code](https://github.com/linhuixiao/HiVG)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. JCR/CAS top journal. [Download Paper](https://arxiv.org/pdf/2305.08685), [Code](https://github.com/linhuixiao/CLIP-VG)
-* **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR top journal. ESI top 1% highly cited papers globally. [Download Paper](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [Code](https://github.com/linhuixiao/Dynamic-SLAM)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. CCF-A top journal, JCR/CAS Q-1 top journal. [Download Paper](https://arxiv.org/pdf/2305.08685), [Code](https://github.com/linhuixiao/CLIP-VG)
+* **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." RAS. JCR Q-1 top journal. ESI top 1% highly cited papers globally. [Download Paper](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [Code](https://github.com/linhuixiao/Dynamic-SLAM)
 * **Linhui Xiao**, Guiping Cao, Mingyue Guo, et al., A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design. CJE 2026. [Download Paper](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.438)
-* Hongbing Li, **Linhui Xiao\***, Zihan Zhao, Qi Shen, Yixiang Huang, Bo Xiao, Zhanyu Ma. "BARE: Towards Bias-Aware and Reasoning-Enhanced One-Tower Visual Grounding." TCSVT 2026. JCR/CAS top journal. Corresponding author. [Download Paper](https://arxiv.org/pdf/2601.01526), [Code](https://github.com/Marloweeee/BARE)
+* Hongbing Li, **Linhui Xiao\***, Zihan Zhao, Qi Shen, Yixiang Huang, Bo Xiao, Zhanyu Ma. "BARE: Towards Bias-Aware and Reasoning-Enhanced One-Tower Visual Grounding." TCSVT 2026. JCR/CAS Q-1 top journal. Corresponding author. [Download Paper](https://arxiv.org/pdf/2601.01526), [Code](https://github.com/Marloweeee/BARE)
 * Tianyi Zhao, Jiawen Xi, **Linhui Xiao**, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei. "RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios." ECCV 2026. [论文下载](https://arxiv.org/pdf/2512.24561), [代码链接]()
-* Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. JCR/CAS top journal. [Download Paper](https://arxiv.org/pdf/2211.16191), [Code](https://github.com/FannierPeng/SgVA-CLIP)
-* Yabo Liu, Jinghua Wang, **Linhui Xiao**, Chengliang Liu, Zhihao Wu, Yong Xu "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." TNNLS 2023. JCR/CAS top journal. [Download Paper](https://ieeexplore.ieee.org/abstract/document/10329584)
+* Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. CCF-A top journal, JCR/CAS Q-1 top journal. [Download Paper](https://arxiv.org/pdf/2211.16191), [Code](https://github.com/FannierPeng/SgVA-CLIP)
+* Yabo Liu, Jinghua Wang, **Linhui Xiao**, Chengliang Liu, Zhihao Wu, Yong Xu "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." TNNLS 2023. JCR/CAS Q-1 top journal. [Download Paper](https://ieeexplore.ieee.org/abstract/document/10329584)
 
 For more publications, please refer to [my Google Scholar homepage](https://scholar.google.com.hk/citations?user=4rTE4ogAAAAJ&hl=zh-CN&oi=ao)
 
@@ -71,13 +71,13 @@ Academic Services
 
 **Conference Reviewer**
 
-* ICML 2025
-* NeurIPS 2024, 2025
-* ICLR 2024, 2025, 2026
-* ECCV 2024, 2025
-* CVPR 2024
-* ACM MM 2023、2024, 2025
-* AAAI 2023、2024、2025, 2026
+* ICML 2025, 2026
+* NeurIPS 2024, 2025, 2026
+* ICLR 2024, 2025, 2026, 2026
+* ECCV 2024, 2026
+* CVPR 2024, 2025, 2026
+* ACM MM 2023、2024, 2025, 2026
+* AAAI 2023、2024、2025, 2026, 2027
 * IROS 2019、2020、2021、2022、2023
 
 **Journal Reviewer**
