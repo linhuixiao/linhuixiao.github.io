@@ -14,13 +14,14 @@ I have long focused on the research of key technologies in artificial intelligen
 
 I always maintain an open and collaborative academic attitude. Colleagues who are interested in my research work are welcome to engage in discussions, and **scholars and students with potential collaboration interests are also encouraged to pursue in-depth cooperation with me**. If interested, please feel free to contact me via email.
 
-Furthermore, Pengcheng National Laboratory consistently undertakes multiple major national research initiatives related to visual perception. Students interested in applying for [joint Ph.D programs](https://yzw.pcl.ac.cn/home) are also welcome to reach out via email for consultation and exchange.
+Furthermore, Pengcheng National Laboratory consistently undertakes multiple major national research initiatives related to artificial intelligence. Students interested in applying for [joint Ph.D programs](https://yzw.pcl.ac.cn/home) are also welcome to reach out via email for consultation and exchange.
 
 
 Education Background
 ======
 * 2021—2025  Ph.D.，[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.edu.cn/)
   * Institute of Automation, Chinese Academy of Sciences, National Key Laboratory of Multimodal Artificial Intelligence Systems, Beijing, China
+  * Pengcheng National Laboratory, Shenzhen, China
   * UCAS ranks No. 1 in China in the ESI ranking system and No. 69 globally in the [US News ranking system](https://www.usnews.com/education/best-global-universities/rankings).
 * 2016—2019  Master，[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.edu.cn/)
   * Institute of Aerospace Information, Chinese Academy of Sciences, State Key Laboratory of Transducer Technology, Beijing, China
@@ -30,15 +31,15 @@ Education Background
 
 Selected Publications
 ======
-* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2025. CCF-A/JCR/CAS top journal. [Download Paper](https://doi.org/10.1109/TPAMI.2025.3630635), [Code](https://github.com/linhuixiao/Awesome-Visual-Grounding)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A top conference. [Download Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef), [Slide](https://nips.cc/media/neurips-2024/Slides/93378_ROahXfO.pdf)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A top conference. [Download Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [Code](https://github.com/linhuixiao/HiVG)
-* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Yaowei Wang, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. CCF-A top journal, JCR/CAS Q-1 top journal. [Download Paper](https://doi.org/10.1109/TMM.2023.3321501), [Code](https://github.com/linhuixiao/CLIP-VG)
+* **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Changsheng Xu. "Towards Visual Grounding: A Survey." TPAMI 2025. CCF-A/JCR/CAS top journal. [Download Paper](https://doi.org/10.1109/TPAMI.2025.3630635), [Code](https://github.com/linhuixiao/Awesome-Visual-Grounding)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." NeurIPS 2024. CCF-A top conference. [Download Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef), [Slide](https://nips.cc/media/neurips-2024/Slides/93378_ROahXfO.pdf)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Changsheng Xu. "HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding." ACM MM 2024. CCF-A top conference. [Download Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681071), [Code](https://github.com/linhuixiao/HiVG)
+* **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Ming Yan, Changsheng Xu. "CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding." TMM 2023. CCF-A top journal, JCR/CAS Q-1 top journal. [Download Paper](https://doi.org/10.1109/TMM.2023.3321501), [Code](https://github.com/linhuixiao/CLIP-VG)
 * **Linhui Xiao**, Jinge wang, Zhen Rong, Xudong Zou. "Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment." Robotics and Autonomous Systems (RAS). JCR Q-1 top journal. **ESI top 1% highly cited paper**. [Download Paper](https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf), [Code](https://github.com/linhuixiao/Dynamic-SLAM)
 * **Linhui Xiao**, Guiping Cao, Mingyue Guo, et al., A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design. CJE 2026. [Download Paper](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.438)
 * Hongbing Li, **Linhui Xiao\*(Corresponding author)**, Zihan Zhao, Qi Shen, Yixiang Huang, Bo Xiao, Zhanyu Ma. "BARE: Towards Bias-Aware and Reasoning-Enhanced One-Tower Visual Grounding." TCSVT 2026. JCR/CAS Q-1 top journal. [Download Paper](https://ieeexplore.ieee.org/document/11457961), [Code](https://github.com/Marloweeee/BARE)
 * Tianyi Zhao, Jiawen Xi, **Linhui Xiao**, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei. "RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios." ECCV 2026. [论文下载](https://arxiv.org/pdf/2512.24561), [代码链接]()
-* Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Yaowei Wang, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. CCF-A top journal, JCR/CAS Q-1 top journal. [Download Paper](https://arxiv.org/pdf/2211.16191), [Code](https://github.com/FannierPeng/SgVA-CLIP)
+* Fang Peng, Xiaoshan Yang, **Linhui Xiao**, Changsheng Xu. "SgVA-CLIP: Semantic-Guided Visual Adapting of Vision-Language Models for Few-Shot Image Classification." TMM 2023. CCF-A top journal, JCR/CAS Q-1 top journal. [Download Paper](https://arxiv.org/pdf/2211.16191), [Code](https://github.com/FannierPeng/SgVA-CLIP)
 * Yabo Liu, Jinghua Wang, **Linhui Xiao**, Chengliang Liu, Zhihao Wu, Yong Xu "Foregroundness-Aware Task Disentanglement and Self-Paced Curriculum Learning for Domain Adaptive Object Detection." TNNLS 2023. JCR/CAS Q-1 top journal. [Download Paper](https://ieeexplore.ieee.org/abstract/document/10329584)
 
 For more publications, please refer to [my Google Scholar homepage](https://scholar.google.com.hk/citations?user=4rTE4ogAAAAJ&hl=zh-CN&oi=ao)
