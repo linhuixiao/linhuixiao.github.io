@@ -130,10 +130,13 @@ redirect_from:
   <script type="text/javascript" id="clustrmaps" 
     src="//clustrmaps.com/map_v2.js?d=6mewWzwVl4RKOGXq_GLS_8L3emLk_99zRKyVv29Gaso&cl=ffffff&w=a">
   </script>
+</div>
+
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=oZTzMHHUSMFOk4TDuzEM-I7dAUQbCSvkLDm9rthzV30&cl=ffffff&w=a"></script>
 
 
-</div>
+
+
 
 
