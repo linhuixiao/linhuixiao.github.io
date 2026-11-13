@@ -65,7 +65,7 @@ redirect_from:
 
 更多专利，请参考[专利检索系统搜索结果](https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=6IKW6bqf5oWnL1lZ&type=cn)。
 
-部分代表性奖励和荣誉
+代表性奖励和荣誉
 ======
 
 **主持或参与项目**
