@@ -53,8 +53,8 @@ redirect_from:
 
 部分发明专利
 ======
-* “Data Processing Device, Data Processing Method, And Related Product”，国际专利，专利号：WO 2023/045445 A1. 第一发明人. [专利下载](https://patents.google.com/patent/WO2023045445A1/en?oq=WO2023045445A1)
-* “Computing Apparatus, Data Processing Method, And Related Product”, 国际专利，专利号: WO 2023/045446A1.第一发明人. [专利下载](https://patents.google.com/patent/WO2023045446A1/en?oq=WO2023045446A1)
+* “Data Processing Device, Data Processing Method, And Related Product”，美国专利，专利号：US 2023/045445 A1. 第一发明人. [专利下载](https://patents.google.com/patent/WO2023045445A1/en?oq=WO2023045445A1)
+* “Computing Apparatus, Data Processing Method, And Related Product”, 美国专利，专利号: US 2023/045446A1.第一发明人. [专利下载](https://patents.google.com/patent/WO2023045446A1/en?oq=WO2023045446A1)
 * “数据处理装置、数据处理方法及相关产品”, 中国专利，专利号: 202111129610.8等. 2021-05-01，第一发明人. 系列专利共计 7 项，寒武纪第三代人工智能芯片商业级卷积加速系列核心算法. [专利下载](https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=5pWw5o2u5aSE55CG6KOF572u44CB5pWw5o2u5aSE55CG5pa55rOV5Y+K55u45YWz5Lqn5ZOBL1lZ&type=cn)
 * “物体定位方法、装置、设备及介质”，中国专利，专利号：ZL 2024 1 0382411.5. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IEF7EDA4CAACIHA3BBA5AFA9FEDABIA7CDA9EED5CCA9EIE)
 * “物体检测分割方案”, 中国专利，专利号：ZL 2024 1 0272880.1. 第一学生发明人. [专利下载](https://cprs.patentstar.com.cn/Search/Detail?ANE=9BGA6DDA6BDA9DDB6EBA8CGA9CFADGHA7FAA9DACDHFA9FIE)
