@@ -51,7 +51,7 @@ redirect_from:
 
 更多论文，请参考[个人谷歌学术主页](https://scholar.google.com.hk/citations?user=4rTE4ogAAAAJ&hl=zh-CN&oi=ao)。
 
-部分代表性发明专利
+代表性发明专利
 ======
 * “Data Processing Device, Data Processing Method, And Related Product”，美国专利，专利号：US 2023/045445 A1. 第一发明人. [专利下载](https://patents.google.com/patent/WO2023045445A1/en?oq=WO2023045445A1)
 * “Computing Apparatus, Data Processing Method, And Related Product”, 美国专利，专利号: US 2023/045446A1.第一发明人. [专利下载](https://patents.google.com/patent/WO2023045446A1/en?oq=WO2023045446A1)
