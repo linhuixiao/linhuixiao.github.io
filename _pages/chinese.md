@@ -36,7 +36,7 @@ redirect_from:
 * 2019—2021  [中科寒武纪科技股份有限公司](https://www.cambricon.com/)，深度学习算法研究员
 * 2018—2019  [旷视科技股份有限公司](https://www.megvii.com/)，实习算法研究员
 
-部分论文
+部分代表性论文
 ======
 * **Linhui Xiao**, Xiaoshan Yang, Xiangyuan Lan, Changsheng Xu. "Towards Visual Grounding: A Survey." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2025). **CCF-A类国际顶刊**, JCR/中科院一区国际顶刊，唯一第一作者. [论文下载](https://arxiv.org/pdf/2412.20206), [代码链接](https://github.com/linhuixiao/Awesome-Visual-Grounding)
 * **Linhui Xiao**, Xiaoshan Yang, Fang Peng, Changsheng Xu. "OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling." 38th Conference on Neural Information Processing Systems (NeurIPS 2024). **CCF-A类国际顶会**，唯一第一作者. [论文下载](https://openreview.net/pdf?id=siPdcro6uD), [代码链接](https://github.com/linhuixiao/OneRef)，[PPT](https://nips.cc/media/neurips-2024/Slides/93378_ROahXfO.pdf)
@@ -51,7 +51,7 @@ redirect_from:
 
 更多论文，请参考[个人谷歌学术主页](https://scholar.google.com.hk/citations?user=4rTE4ogAAAAJ&hl=zh-CN&oi=ao)。
 
-部分发明专利
+部分代表性发明专利
 ======
 * “Data Processing Device, Data Processing Method, And Related Product”，美国专利，专利号：US 2023/045445 A1. 第一发明人. [专利下载](https://patents.google.com/patent/WO2023045445A1/en?oq=WO2023045445A1)
 * “Computing Apparatus, Data Processing Method, And Related Product”, 美国专利，专利号: US 2023/045446A1.第一发明人. [专利下载](https://patents.google.com/patent/WO2023045446A1/en?oq=WO2023045446A1)
@@ -65,7 +65,7 @@ redirect_from:
 
 更多专利，请参考[专利检索系统搜索结果](https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=6IKW6bqf5oWnL1lZ&type=cn)。
 
-部分奖励和荣誉
+部分代表性奖励和荣誉
 ======
 
 **主持或参与项目**
